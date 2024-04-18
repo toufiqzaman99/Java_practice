@@ -1,0 +1,16 @@
+aapart java. atal. Scanner:
+public class HesDigit&Deo (
+public static void main(String[I arge) f
+Scanner frout « new Scanner (Systen. in)
+Sosten, out.print ('Enter a hex digit:
+String hexString = input, nextLine ()
+if ChesString. lengthO) |m 1) C
+Ex三ten.out.pzdat Lg/-rga mazt entez Ezact13ore charactet2
+Syston, exit (1)
+daarch sCharacter.touppetlasefhezstzzng.CharAt6o3)
+int value = ch -
++ 10:
+ssten.Got.pzigt lnCiThedecgna1crs1uefasaexdazit
++ value):
+e1=Eif CCharacter.1三Daz三t 6c131
+System, out. printin (*The ascinal value for hex digat
